@@ -2,7 +2,7 @@
 
 <h3  text-align: "justify" >I'm a passionate Full stack developer and well versed in a wide range of computer languages, including HTML5, CSS5, JavaScript, C++, C#, Java, PHP and many more. My knowledge includes popular frameworks and libraries such as React and Bootstrap, which allow me to create dynamic and responsive user interfaces. Additionally, I have experience adapting and using the capabilities of WordPress for content management solutions. I thrive on taking the initiative and contributing well to collaborative team as a self-motivated enthusiast. My dedication to quality and collaborative nature make me an indispensable member of any development team.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbakaista&label=Profile%20views&color=0e75b6&style=flat" alt="mrbakaista" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanshrstha&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrstha" /> </p>
 
 - 🔭 I’m currently working on **Eydean**
 
@@ -161,8 +161,8 @@
         </td>
     </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbakaista&show_icons=true&locale=en&layout=compact" alt="mrbakaista" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanshrstha&show_icons=true&locale=en&layout=compact" alt="rohanshrstha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbakaista&show_icons=true&locale=en" alt="mrbakaista" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanshrstha&show_icons=true&locale=en" alt="rohanshrstha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbakaista&" alt="mrbakaista" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshrstha&" alt="rohanshrstha" /></p>
