@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rohanshrstha@gmail.com**
 
-- 📄 Know about my experiences [rohans.com.np](rohans.com.np)
+- 📄 Know about my experiences [rohans.com.np](https://rohans.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
