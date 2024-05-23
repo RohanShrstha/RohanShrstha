@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanshrstha&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrstha" /> </p>
 
+<img src="https://raw.githubusercontent.com/RohanShrstha/RohanShrstha/output/snake.svg" alt="Snake animation" />
+
 - 🔭 I’m currently working on **Eydean**
 
 - 📫 How to reach me **rohanshrstha@gmail.com**
