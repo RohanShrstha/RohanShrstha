@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanshrstha&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrstha" /> </p>
 
-<img src="https://raw.githubusercontent.com/RohanShrstha/RohanShrstha/output/snake.svg" alt="Snake animation" />
-
 - 🔭 I’m currently working on **Eydean**
 
 - 📫 How to reach me **rohanshrstha@gmail.com**
@@ -163,7 +161,7 @@
         </td>
     </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanshrstha&show_icons=true&locale=en&layout=compact" alt="rohanshrstha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanshrstha&show_icons=true&locale=en&layout=compact" alt="rohanshrstha" style="background-color:gray" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanshrstha&show_icons=true&locale=en" alt="rohanshrstha" /></p>
 
