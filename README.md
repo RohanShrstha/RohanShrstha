@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table style="background-color:#ECECEC;">
+<table style="background-color:gray;">
     <tr>
         <td>
             <p align="left">
