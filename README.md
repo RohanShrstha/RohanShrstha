@@ -1,14 +1,45 @@
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .left {
+    flex: 1;
+    margin-right: 10px;
+  }
+  .right {
+    flex: 1;
+    position: relative;
+    padding-bottom: 75%; /* Aspect ratio 4:3 */
+  }
+  .right iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
 <h1 align="center">Hi, I'm Rohan Shrestha</h1>
 
-<h3  text-align: "justify" >I'm a passionate Full stack developer and well versed in a wide range of computer languages, including HTML5, CSS5, JavaScript, C++, C#, Java, PHP and many more. My knowledge includes popular frameworks and libraries such as React and Bootstrap, which allow me to create dynamic and responsive user interfaces. Additionally, I have experience adapting and using the capabilities of WordPress for content management solutions. I thrive on taking the initiative and contributing well to collaborative team as a self-motivated enthusiast. My dedication to quality and collaborative nature make me an indispensable member of any development team.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanshrstha&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrstha" /> </p>
-
-- 🔭 I’m currently working on **Eydean**
-
-- 📫 How to reach me **rohanshrstha@gmail.com**
-
-- 📄 Know about my experiences [rohans.com.np](https://rohans.com.np)
+<div class="container">
+  <div class="left">
+    <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=rohanshrstha&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrstha" />
+    </p>
+    <ul>
+      <li>🔭 I’m currently working on <strong>Eydean</strong></li>
+      <li>📫 How to reach me <strong>rohanshrstha@gmail.com</strong></li>
+      <li>📄 Know about my experiences <a href="https://rohans.com.np">rohans.com.np</a></li>
+    </ul>
+  </div>
+  
+  <div class="right">
+    <iframe src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
