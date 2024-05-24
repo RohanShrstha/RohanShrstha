@@ -1,27 +1,3 @@
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-  }
-  .left {
-    flex: 1;
-    margin-right: 10px;
-  }
-  .right {
-    flex: 1;
-    position: relative;
-    padding-bottom: 75%; /* Aspect ratio 4:3 */
-  }
-  .right iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
 <h1 align="center">Hi, I'm Rohan Shrestha</h1>
 
 <div class="container">
@@ -34,10 +10,6 @@
       <li>📫 How to reach me <strong>rohanshrstha@gmail.com</strong></li>
       <li>📄 Know about my experiences <a href="https://rohans.com.np">rohans.com.np</a></li>
     </ul>
-  </div>
-  
-  <div class="right">
-    <iframe src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </div>
 </div>
 
