@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Rohan Shrestha</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Eydean<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🇳🇵 I'm from Nepal<br>
+🔭 I’m currently working on Eydean<br>
+💌 Connect me through <a href="mailto:rohanshrstha@gmail.com">rohanshrstha@gmail.com</a><br>
+🌐 Know more about me <a href="https://rohans.com.np/">Rohan</a><br>
 
 
 ## 🌐 Socials:
