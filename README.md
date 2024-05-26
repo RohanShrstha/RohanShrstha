@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🇳🇵 I'm from Nepal<br>
-🔭 Currently working on Eydean<br>
+🔭 Currently working on <a href="https://eydean.com/">Eydean</a><br>
 💌 Connect me through <a href="mailto:rohanshrstha@gmail.com">rohanshrstha@gmail.com</a><br>
 🌐 Know more about me <a href="https://rohans.com.np/">Rohan</a><br>
 
