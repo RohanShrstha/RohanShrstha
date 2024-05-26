@@ -5,10 +5,11 @@
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=rohanshrstha&label=Profile%20views&color=0e75b6&style=flat" alt="rohanshrstha" />
     </p>
+    <h3># 💫 About Me: </h3>
     <ul>
 
       
-# 💫 About Me:
+
       <li>🔭 I’m currently working on <strong>Eydean</strong></li>
       <li>📫 How to reach me <strong>rohanshrstha@gmail.com</strong></li>
       <li>📄 Know about my experiences <a href="https://rohans.com.np">rohans.com.np</a></li>
