@@ -20,6 +20,9 @@
 <a href="https://discord.gg/629176045978779648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="629176045978779648" height="30" width="40" /></a>
 </p>
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
 <h3 align="left">Languages and Tools:</h3>
 <table style="background-color:gray;">
     <tr>
@@ -176,9 +179,6 @@
 
 
 
-
-# 💫 About Me:
-🔭 I’m currently working on Eydean<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
